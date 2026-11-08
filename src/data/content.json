@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {"id":"film-01","title":"Beyond the Ordinary","slug":"beyond-the-ordinary","category":"Cinematic","description":"A cinematic visual story shaped through deliberate pacing, rich colour and immersive sound design.","year":"2025","client":"Independent film","role":"Editing · Colour grading · Sound design","duration":"01:42","thumbnail":"https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1200&q=85","videoUrl":"https://www.youtube.com/embed/ScMzIvxBSi4","featured":true,"published":true},
+    {"id":"film-02","title":"Made for the Moment","slug":"made-for-the-moment","category":"Commercial","description":"A punchy brand film that brings product, movement and atmosphere together.","year":"2025","client":"Lifestyle brand concept","role":"Editing · Motion graphics","duration":"00:38","thumbnail":"https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?auto=format&fit=crop&w=1200&q=85","videoUrl":"https://www.youtube.com/embed/ysz5S6PUM-U","featured":true,"published":true},
+    {"id":"film-03","title":"City in Motion","slug":"city-in-motion","category":"Reels","description":"Fast, energetic short-form storytelling designed to stop the scroll.","year":"2024","client":"Social campaign","role":"Editing · Sound design","duration":"00:27","thumbnail":"https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1200&q=85","videoUrl":"https://www.youtube.com/embed/ScMzIvxBSi4","featured":false,"published":true},
+    {"id":"film-04","title":"The Wedding Story","slug":"the-wedding-story","category":"Wedding","description":"An emotional highlight film built around candid moments and cinematic transitions.","year":"2024","client":"Private client","role":"Editing · Colour grading","duration":"03:15","thumbnail":"https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=85","videoUrl":"https://www.youtube.com/embed/ysz5S6PUM-U","featured":false,"published":true}
+  ],
+  "categories": ["All","Reels","YouTube","Cinematic","Wedding","Commercial","Gaming","Motion Graphics"],
+  "skills": [
+    {"name":"Adobe Premiere Pro","level":"Advanced","group":"Editing"},
+    {"name":"DaVinci Resolve","level":"Advanced","group":"Colour"},
+    {"name":"Adobe After Effects","level":"Intermediate","group":"Motion"},
+    {"name":"Photoshop","level":"Intermediate","group":"Design"},
+    {"name":"Storytelling & pacing","level":"Advanced","group":"Creative"},
+    {"name":"Sound design","level":"Advanced","group":"Audio"}
+  ],
+  "services": [
+    {"title":"Social-first editing","description":"Scroll-stopping Reels, Shorts and vertical campaigns built for attention and retention."},
+    {"title":"YouTube editing","description":"Long-form edits with clear pacing, clean audio, thoughtful structure and polished finishing."},
+    {"title":"Cinematic films","description":"Atmospheric visual storytelling with considered rhythm, colour and sound."},
+    {"title":"Brand & promotional films","description":"Purposeful videos that translate a brand's identity into a memorable visual story."},
+    {"title":"Wedding highlights","description":"Personal, emotion-led films that preserve the energy and details of the day."},
+    {"title":"Motion & visual effects","description":"Titles, transitions and motion graphics that support the story instead of distracting from it."}
+  ],
+  "testimonials": [],
+  "enquiries": []
+}
